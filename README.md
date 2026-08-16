@@ -1,2 +1,19 @@
 # indekhtml
 git  commit  -m  1nitia1  "commit"
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Situs Web Pertamaku</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #f4f4f9; }
+        h1 { color: #333; }
+        p { color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Halo Dunia! 👋</h1>
+    <p>Selamat datang di situs web pertamaku yang di-host di GitHub Pages.</p>
+</body>
+</html>
